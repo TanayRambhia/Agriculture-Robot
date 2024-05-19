@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989810940058",
+    "project_id": "agrobot-project",
+    "storage_bucket": "agrobot-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989810940058:android:5a5dfb4d0c9d73b8ad2723",
+        "android_client_info": {
+          "package_name": "com.example.agrobot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmv79_QQnO4sVo-8LSlU1NDE64AEPvoOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989810940058:android:4db1790d50cca0d5ad2723",
+        "android_client_info": {
+          "package_name": "com.example.flutterbasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmv79_QQnO4sVo-8LSlU1NDE64AEPvoOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
